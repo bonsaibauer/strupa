@@ -40,15 +40,13 @@
 | v1.3    | 15.12.2019       | 23.12.2019  | ~      | [StruPa_v1.3](https://fffutu.re/strupa-v1-3-pdf) / [Anlagen](https://fffutu.re/strupa-v1-3-dokumente)     | - | 
 | v1.2    | 21.11.2019       | 15.12.2019  | ~      | [StruPa_v1.2](https://fffutu.re/strupa-v1-2-pdf) / [Anlagen](https://fffutu.re/strupa-v1-2-dokumente)     | - | 
 | v1.1    | 07.07.2019       | 21.11.2019  | ~      | [StruPa_v1.1](https://fffutu.re/strupa-v1-1-pdf) / [Anlagen](https://fffutu.re/strupa-v1-1-dokumente)     | - | 
-| v1.00    | 14.04.2019       | 07.07.2019  | ~      | [StruPa_v1.00](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/StruPa_v1.00__14.04.2019_.pdf) / [Anlagen](https://github.com/bonsaibauer/strupa/tree/main/Anlagen/Anlage_v1.00)     | - **Auswertung StruPa_v1.00:** <span style="color:red">Legitimierung StruPa</span>  
-- **Ausführliches Abstimmungsergebnis StruPa_v1.00:** <span style="color:red">Legitimierung StruPa</span>  
-- **Durchführung Abstimmung StruPa_v1.00:** <span style="color:red">Strukturpapieränderungen haben keine Vetorechtsoption</span>  
- | 
-| v0.90    | 12.03.2019       | –           | ✘      | [StruPa_v0.90](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/StruPa_v0.90__12.03.2019_.pdf) / [Anlagen](https://github.com/bonsaibauer/strupa/tree/main/Anlagen/Anlage_v0.90-1%20(Dokumente%20zum%20bearbeiten))     | [Ergebnis](https://github.com/bonsaibauer/strupa/releases/tag/v0.90)  | 
+| v1.00   | 14.04.2019        | 07.07.2019  | ~      | [StruPa_v1.00](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/StruPa_v1.00__14.04.2019_.pdf) / [Anlagen](https://github.com/bonsaibauer/strupa/tree/main/Anlagen/Anlage_v1.00) | - [Änderungen](https://github.com/bonsaibauer/strupa/releases/tag/v1.00) <br>- 🔗✖ Auswertung <br>- 🔗✖ Ausführliches Abstimmungsergebnis <br>- 🔗✖ Durchführung Abstimmung |
+| v0.90   | 12.03.2019        | –           | ✘      | [StruPa_v0.90](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/StruPa_v0.90__12.03.2019_.pdf) / [Anlagen](https://github.com/bonsaibauer/strupa/tree/main/Anlagen/Anlage_v0.90-1%20(Dokumente%20zum%20bearbeiten)) | - [Änderungen](https://github.com/bonsaibauer/strupa/releases/tag/v0.90)  
 
 **Legende:**
 - ✔︎ = aktuell legitimiertes Strukturpapier  
 - ~ = zuvor legitimiert, mittlerweile abgelöst  
 - ✘ = nie legitimiert
+- 🔗✖ = link nicht vorhanden / Dokument nicht vorhanden
 
 ---

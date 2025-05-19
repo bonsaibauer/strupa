@@ -28,18 +28,18 @@
 
 | Version | Veröffentlichung | Enddatum    | Status | Link zum PDF / Anlagen                                                                                    | Abstimmung/Änderungsanträge   |
 |---------|------------------|-------------|--------|------------------------------------------------------------------------------------------------------------|------------------------------| 
-| v2.1    | 01.04.2021       | –           | ✔︎      | [StruPa_v2.1](https://fffutu.re/strupa-v2-1-pdf) / [Anlagen](https://fffutu.re/finanzkonzept-v3-0-pdf)    | - | 
-| v2.0    | 01.03.2021       | 01.04.2021  | ~      | [StruPa_v2.0](https://fffutu.re/strupa-v2-0-pdf) / [Anlagen](https://fffutu.re/strupa-v2-0-dokumente)     | - | 
+| v2.01    | 01.04.2021       | –           | ✔︎      | [StruPa_v2.01](https://fffutu.re/strupa-v2-1-pdf) / [Anlagen](https://fffutu.re/finanzkonzept-v3-0-pdf)    | - | 
+| v2.00    | 01.03.2021       | 01.04.2021  | ~      | [StruPa_v2.00](https://fffutu.re/strupa-v2-0-pdf) / [Anlagen](https://fffutu.re/strupa-v2-0-dokumente)     | - | 
 | v1.10   | 14.02.2021       | 01.03.2021  | ~      | [StruPa_v1.10](https://fffutu.re/strupa-v1-10-pdf) / [Anlagen](https://fffutu.re/strupa-v1-10-dokumente)  | - | 
-| v1.9    | 30.10.2020       | 14.02.2021  | ~      | [StruPa_v1.9](https://fffutu.re/strupa-v1-9-pdf) / [Anlagen](https://fffutu.re/strupa-v1-9-dokumente)     | - | 
-| v1.8    | 29.06.2020       | 30.10.2020  | ~      | [StruPa_v1.8](https://fffutu.re/strupa-v1-8-pdf) / [Anlagen](https://fffutu.re/strupa-v1-8-dokumente)     | - | 
-| v1.7    | 01.05.2020       | 29.06.2020  | ~      | [StruPa_v1.7](https://fffutu.re/strupa-v1-7-pdf) / [Anlagen](https://fffutu.re/strupa-v1-7-dokumente)     | - | 
-| v1.6    | 26.04.2020       | 01.05.2020  | ~      | [StruPa_v1.6](https://fffutu.re/strupa-v1-6-pdf) / [Anlagen](https://fffutu.re/strupa-v1-6-dokumente)     | - | 
-| v1.5    | 31.03.2020       | 26.04.2020  | ~      | [StruPa_v1.5](https://fffutu.re/strupa-v1-5-pdf) / [Anlagen](https://fffutu.re/strupa-v1-5-dokumente)     | - | 
-| v1.4    | 23.12.2019       | 31.03.2020  | ~      | [StruPa_v1.4](https://fffutu.re/strupa-v1-4-pdf) / [Anlagen](https://fffutu.re/strupa-v1-4-dokumente)     | - | 
-| v1.3    | 15.12.2019       | 23.12.2019  | ~      | [StruPa_v1.3](https://fffutu.re/strupa-v1-3-pdf) / [Anlagen](https://fffutu.re/strupa-v1-3-dokumente)     | - | 
-| v1.2    | 21.11.2019       | 15.12.2019  | ~      | [StruPa_v1.2](https://fffutu.re/strupa-v1-2-pdf) / [Anlagen](https://fffutu.re/strupa-v1-2-dokumente)     | - | 
-| v1.1    | 07.07.2019       | 21.11.2019  | ~      | [StruPa_v1.1](https://fffutu.re/strupa-v1-1-pdf) / [Anlagen](https://fffutu.re/strupa-v1-1-dokumente)     | - | 
+| v1.09    | 30.10.2020       | 14.02.2021  | ~      | [StruPa_v1.09](https://fffutu.re/strupa-v1-9-pdf) / [Anlagen](https://fffutu.re/strupa-v1-9-dokumente)     | - | 
+| v1.08    | 29.06.2020       | 30.10.2020  | ~      | [StruPa_v1.08](https://fffutu.re/strupa-v1-8-pdf) / [Anlagen](https://fffutu.re/strupa-v1-8-dokumente)     | - | 
+| v1.07    | 01.05.2020       | 29.06.2020  | ~      | [StruPa_v1.07](https://fffutu.re/strupa-v1-7-pdf) / [Anlagen](https://fffutu.re/strupa-v1-7-dokumente)     | - | 
+| v1.06    | 26.04.2020       | 01.05.2020  | ~      | [StruPa_v1.06](https://fffutu.re/strupa-v1-6-pdf) / [Anlagen](https://fffutu.re/strupa-v1-6-dokumente)     | - | 
+| v1.05    | 31.03.2020       | 26.04.2020  | ~      | [StruPa_v1.05](https://fffutu.re/strupa-v1-5-pdf) / [Anlagen](https://fffutu.re/strupa-v1-5-dokumente)     | - | 
+| v1.04    | 23.12.2019       | 31.03.2020  | ~      | [StruPa_v1.04](https://fffutu.re/strupa-v1-4-pdf) / [Anlagen](https://fffutu.re/strupa-v1-4-dokumente)     | - | 
+| v1.03    | 15.12.2019       | 23.12.2019  | ~      | [StruPa_v1.03](https://fffutu.re/strupa-v1-3-pdf) / [Anlagen](https://fffutu.re/strupa-v1-3-dokumente)     | - | 
+| v1.02    | 21.11.2019       | 15.12.2019  | ~      | [StruPa_v1.02](https://fffutu.re/strupa-v1-2-pdf) / [Anlagen](https://fffutu.re/strupa-v1-2-dokumente)     | - | 
+| v1.01    | 07.07.2019       | 21.11.2019  | ~      | [StruPa_v1.01](https://fffutu.re/strupa-v1-1-pdf) / [Anlagen](https://fffutu.re/strupa-v1-1-dokumente)     | - | 
 | v1.00   | 14.04.2019        | 07.07.2019  | ~      | [StruPa_v1.00](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/StruPa_v1.00__14.04.2019_.pdf) / [Anlagen](https://github.com/bonsaibauer/strupa/tree/main/Anlagen/Anlage_v1.00) | - [Änderungen](https://github.com/bonsaibauer/strupa/releases/tag/v1.00) <br>- 🔗✖ Auswertung <br>- 🔗✖ Ausführliches Abstimmungsergebnis <br>- 🔗✖ Durchführung Abstimmung |
 | v0.90   | 12.03.2019        | –           | ✘      | [StruPa_v0.90](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/StruPa_v0.90__12.03.2019_.pdf) / [Anlagen](https://github.com/bonsaibauer/strupa/tree/main/Anlagen/Anlage_v0.90-1%20(Dokumente%20zum%20bearbeiten)) | - [Änderungen](https://github.com/bonsaibauer/strupa/releases/tag/v0.90)  
 

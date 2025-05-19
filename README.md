@@ -41,7 +41,7 @@
 | v1.2    | 21.11.2019       | 15.12.2019  | ~      | [StruPa_v1.2](https://fffutu.re/strupa-v1-2-pdf) / [Anlagen](https://fffutu.re/strupa-v1-2-dokumente)     | - | 
 | v1.1    | 07.07.2019       | 21.11.2019  | ~      | [StruPa_v1.1](https://fffutu.re/strupa-v1-1-pdf) / [Anlagen](https://fffutu.re/strupa-v1-1-dokumente)     | - | 
 | v1.0    | 14.04.2019       | 07.07.2019  | ~      | [StruPa_v1.0](https://fffutu.re/strupa-v1-0-pdf) / [Anlagen](https://fffutu.re/strupa-v1-0-dokumente)     | - | 
-| v0.9    | 12.03.2019       | –           | ✘      | [StruPa_v0.9](https://fffutu.re/strupa-v0-9-pdf) / [Anlagen](https://fffutu.re/strupa-v0-9-dokumente)     | - | 
+| v0.90    | 12.03.2019       | –           | ✘      | [StruPa_v0.9](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/StruPa_v0.90__12.03.2019_.pdf) / [Anlagen](https://github.com/bonsaibauer/strupa/tree/main/Anlagen/Anlage_v0.90-1%20(Dokumente%20zum%20bearbeiten))     | - | 
 
 **Legende:**
 - ✔︎ = aktuell legitimiertes Strukturpapier  

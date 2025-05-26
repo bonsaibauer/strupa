@@ -19,7 +19,7 @@ if not GITHUB_TOKEN:
     print("❌ Kein GITHUB_TOKEN gefunden. Bitte in .env Datei setzen.")
     exit(1)
 
-# RegEx für Markdown-Links
+# Markdown-Link Regex
 link_pattern = re.compile(r'\[(.*?)\]\((.*?)\)')
 
 GITHUB_API_BASE = "https://api.github.com/repos"
@@ -27,30 +27,27 @@ GITHUB_API_BASE = "https://api.github.com/repos"
 def is_github_broken(url):
     headers = {"Authorization": f"token {GITHUB_TOKEN}"}
 
-    # --- A) blob/: Prüfung per API
     if "/blob/" in url:
         try:
             parts = url.split("github.com/")[1].split("/blob/")
             repo_path = parts[0]
             branch, path = parts[1].split("/", 1)
             api_url = f"{GITHUB_API_BASE}/{repo_path}/contents/{path}?ref={branch}"
-
             response = requests.get(api_url, headers=headers)
             print(f"🔍 API: {url} → {response.status_code}")
 
             if response.status_code == 200:
                 data = response.json()
-                if isinstance(data, dict):  # Datei
+                if isinstance(data, dict):
                     return False
-                elif isinstance(data, list):  # Ordner
-                    return len(data) == 0  # leer → broken
+                elif isinstance(data, list):
+                    return len(data) == 0
             elif response.status_code == 404:
                 return True
         except Exception as e:
             print(f"⚠ Fehler bei API-Check {url}: {e}")
             return False
 
-    # --- B) Andere GitHub-Links: HEAD-Check (wiki/, releases/, issues/, pull/)
     elif "github.com" in url and not "/blob/" in url:
         try:
             response = requests.head(url, allow_redirects=True, timeout=10)
@@ -62,21 +59,40 @@ def is_github_broken(url):
 
     return False
 
+def clean_markers_around_link(line, text, url):
+    """Entfernt vor dem Linktext ein vorhandenes '🔗✖' oder '- 🔗✖ ['"""
+    # Entferne Marker direkt vor Linktext, z. B. 🔗✖ [Text](...)
+    line = line.replace(f"🔗✖ [{text}]({url})", f"[{text}]({url})")
+    # Entferne bei Listeneinträgen '- 🔗✖ [Text](...)'
+    line = line.replace(f"- 🔗✖ [{text}]({url})", f"- [{text}]({url})")
+    return line
+
 def mark_broken_links(line):
-    def replace(match):
+    matches = list(link_pattern.finditer(line))
+    if not matches:
+        return line
+
+    new_line = line
+    for match in matches:
         text, url = match.groups()
         original = match.group(0)
 
-        if "🔗✖" in original:
-            return original
+        is_broken = url.startswith("https://github.com") and is_github_broken(url)
 
-        if url.startswith("https://github.com") and is_github_broken(url):
-            print(f"❌ Broken Link erkannt: {url}")
-            return f"🔗✖ [{text}]({url})"
+        if is_broken:
+            # Nur markieren, wenn noch nicht enthalten
+            if f"🔗✖ [{text}]({url})" not in new_line and f"- 🔗✖ [{text}]({url})" not in new_line:
+                print(f"❌ Markiert als broken: {url}")
+                # Wenn Zeile mit - [Text](...) beginnt, dann ersetze richtig
+                if new_line.strip().startswith(f"- [{text}]({url})"):
+                    new_line = new_line.replace(f"- [{text}]({url})", f"- 🔗✖ [{text}]({url})")
+                else:
+                    new_line = new_line.replace(f"[{text}]({url})", f"🔗✖ [{text}]({url})")
+        else:
+            # Link ist erreichbar → evtl. 🔗✖ entfernen
+            new_line = clean_markers_around_link(new_line, text, url)
 
-        return original
-
-    return link_pattern.sub(replace, line)
+    return new_line
 
 def process_readme():
     with open(README_FILE, "r", encoding="utf-8") as f:
@@ -92,4 +108,3 @@ def process_readme():
 if __name__ == "__main__":
     print("🔐 Starte vollständige GitHub-Linkprüfung (API + HEAD)...\n")
     process_readme()
-

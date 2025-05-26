@@ -1,5 +1,9 @@
 # Fridays for Future Germany – Strukturpapier (StruPa)
 
+<a href="https://github.com/fridaysforfuture-archiv/bundesebene" target="_blank" style="display:inline-block; padding:20px 30px; background-color:#28a745; color:#ffffff; text-decoration:none; border-radius:10px; font-size:18px; font-weight:600; box-shadow:0 8px 20px rgba(0,0,0,0.2);">
+  📂 Strupa: Teil des Projekts von Fridays for Future Archiv → 
+</a>
+
 ## 🏷️ Tags
 ![Status](https://img.shields.io/badge/status-archived-blue) 
 [![License](https://img.shields.io/badge/license-CC--BY--SA--4.0-lightgrey)](https://creativecommons.org/licenses/by-sa/4.0/) 

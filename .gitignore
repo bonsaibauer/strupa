@@ -1,0 +1,5 @@
+# GitHub Token – niemals einchecken!
+/service/.env
+
+# Generierte Ausgabedatei
+/service/readme_comment.md

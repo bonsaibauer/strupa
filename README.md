@@ -30,6 +30,8 @@
 > ⚠️ **Hinweis:** Diese Tabelle befindet sich im Aufbau – noch nicht alle StruPa-Versionen und Anlagen sind vollständig erfasst.  
 > Ergänzungen willkommen – gerne via Pull Request!
 
+📂 **Änderungen ansehen**: [CHANGELOG.md](./CHANGELOG.md)
+
 | Version | Veröffentlichung | Enddatum    | Status | Link zum PDF                                                                                    | Anlagen/Abstimmung/Änderungsanträge   |
 |---------|------------------|-------------|--------|------------------------------------------------------------------------------------------------------------|------------------------------| 
 | v2.01   | 01.04.2021       | –           | ✔︎      | 🔗✖ [StruPa_v2.01](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v2.01/StruPa_v2.01__01.04.2021_.pdf) | - 🔗✖ [Anlagen](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v2.01/Anlage) <br> - 🔗✖ [Änderungen](https://github.com/bonsaibauer/strupa/releases/tag/v2.01) <br> - 🔗✖ [Abstimmungsergebnisse](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v2.01/Anlagen/Abstimmungsergebnisse) <br> - 🔗✖ [Änderungsanträge](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v2.01/Anlagen/Aenderungsantraege) |

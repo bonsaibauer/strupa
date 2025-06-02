@@ -62,13 +62,16 @@
 
 <!-- CHANGELOG START -->
 
+## [v1.09] - 2025-06-02
+📌Einarbeitung der Kieler Änderungsanträge, siehe Kiel Antrag I. und Kiel Antrag II.
+
+<details>
+<summary>📜 Ältere Einträge anzeigen</summary>
+
 ## [v1.08] - 2025-06-02
 📌Kürzung des Strukturpapiers, Layoutänderungen, Rechtschreibkorrektur, Vetorecht wurde eindeutiger - verständlicher überarbeitet,
 
 Zusatzantrag Finanzkonzept (wurde ins Strukturpapier aufgenommen, sowie die Finanzstruktur).
-
-<details>
-<summary>📜 Ältere Einträge anzeigen</summary>
 
 ## [v1.07] - 2025-06-02
 📌 TF FINTA Antrag, zu Feminismus leben!
@@ -106,7 +109,7 @@ TFs sind projektbezogene, demokratisch organisierte Gruppen mit klaren Transpare
 ## [v1.00] - 2025-05-19
 **📌Erste Struktur:**
 
-Die Version 1.00 des Strukturpapiers (StruPa) stellt die erste offizielle Veröffentlichung dar und dient als Grundlage für die weitere Entwicklung. Die zugehörige PDF-Datei 🔗✖ [„Anlage_v1.00-7 (Zusammenfassung & FAQ des Strukturpapiers)“](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v1.00/Anlage/Anlage_v1.00-7%20(Zusammenfassung%20%26%20FAQ%20des%20Strukturpapiers).pdf) bietet eine kompakte Übersicht der zentralen Inhalte sowie Antworten auf häufig gestellte Fragen.
+Die Version 1.00 des Strukturpapiers (StruPa) stellt die erste offizielle Veröffentlichung dar und dient als Grundlage für die weitere Entwicklung. Die zugehörige PDF-Datei [„Anlage_v1.00-7 (Zusammenfassung & FAQ des Strukturpapiers)“](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v1.00/Anlage/Anlage_v1.00-7%20(Zusammenfassung%20%26%20FAQ%20des%20Strukturpapiers).pdf) bietet eine kompakte Übersicht der zentralen Inhalte sowie Antworten auf häufig gestellte Fragen.
 
 ## [v0.90] - 2025-05-19
 **📌Erste Vorschlag:**

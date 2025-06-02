@@ -37,7 +37,7 @@
 | v2.00   | 01.03.2021       | 01.04.2021  | ~      | 🔗✖ [StruPa_v2.00](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v2.00/StruPa_v2.00__01.03.2021_.pdf) | - 🔗✖ [Anlagen](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v2.00/Anlage) <br> - 🔗✖ [Änderungen](https://github.com/bonsaibauer/strupa/releases/tag/v2.00) <br> - 🔗✖ [Abstimmungsergebnisse](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v2.00/Anlagen/Abstimmungsergebnisse) <br> - 🔗✖ [Änderungsanträge](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v2.00/Anlagen/Aenderungsantraege) |
 | v1.10   | 14.02.2021       | 01.03.2021  | ~      | 🔗✖ [StruPa_v1.10](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v1.10/StruPa_v1.10__14.02.2021_.pdf) | - 🔗✖ [Anlagen](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v1.10/Anlage) <br> - 🔗✖ [Änderungen](https://github.com/bonsaibauer/strupa/releases/tag/v1.10) <br> - 🔗✖ [Abstimmungsergebnisse](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v1.10/Anlagen/Abstimmungsergebnisse) <br> - 🔗✖ [Änderungsanträge](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v1.10/Anlagen/Aenderungsantraege) |
 | v1.09   | 30.10.2020       | 14.02.2021  | ~      | 🔗✖ [StruPa_v1.09](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v1.09/StruPa_v1.09__30.10.2020_.pdf) | - 🔗✖ [Anlagen](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v1.09/Anlage) <br> - 🔗✖ [Änderungen](https://github.com/bonsaibauer/strupa/releases/tag/v1.09) <br> - 🔗✖ [Abstimmungsergebnisse](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v1.09/Anlagen/Abstimmungsergebnisse) <br> - 🔗✖ [Änderungsanträge](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v1.09/Anlagen/Aenderungsantraege) |
-| v1.08   | 29.06.2020       | 30.10.2020  | ~      | 🔗✖ [StruPa_v1.08](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v1.08/StruPa_v1.08__29.06.2020_.pdf) | - 🔗✖ [Anlagen](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v1.08/Anlage) <br> - 🔗✖ [Änderungen](https://github.com/bonsaibauer/strupa/releases/tag/v1.08) <br> - 🔗✖ [Abstimmungsergebnisse](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v1.08/Anlagen/Abstimmungsergebnisse) <br> - 🔗✖ [Änderungsanträge](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v1.08/Anlagen/Aenderungsantraege) |
+| v1.08   | 29.06.2020       | 30.10.2020  | ~      | [StruPa_v1.08](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v1.08/StruPa_v1.08__29.06.2020_.pdf) | - [Finanzkonzept](https://github.com/fridaysforfuture-archiv/bundesebene/tree/main/Finanzkonzept) <br>  - [Anlagen](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v1.08/Anlage) <br> - 🔗✖ [Änderungen](https://github.com/bonsaibauer/strupa/releases/tag/v1.08) <br> - 🔗✖ [Abstimmungsergebnisse](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v1.08/Anlagen/Abstimmungsergebnisse) <br> - 🔗✖ [Änderungsanträge](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v1.08/Anlagen/Aenderungsantraege) |
 | v1.07   | 01.05.2020       | 29.06.2020  | ~      | [StruPa_v1.07](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v1.07/StruPa_v1.07__01.05.2020_.pdf) | - [Anlagen](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v1.07/Anlage) <br> - [Änderungen](https://github.com/bonsaibauer/strupa/releases/tag/v1.07) <br> - 🔗✖ [Abstimmungsergebnisse](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v1.07/Anlagen/Abstimmungsergebnisse) <br> - 🔗✖ [Änderungsanträge](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v1.07/Anlagen/Aenderungsantraege) |
 | v1.06   | 26.04.2020       | 01.05.2020  | ~      | [StruPa_v1.06](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v1.06/StruPa_v1.06__26.04.2020_.pdf) | - [Anlagen](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v1.06/Anlage) <br> - [Änderungen](https://github.com/bonsaibauer/strupa/releases/tag/v1.06) <br> - 🔗✖ [Abstimmungsergebnisse](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v1.06/Anlagen/Abstimmungsergebnisse) <br> - 🔗✖ [Änderungsanträge](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v1.06/Anlagen/Aenderungsantraege) |
 | v1.05   | 31.03.2020       | 26.04.2020  | ~      | [StruPa_v1.05](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v1.05/StruPa_v1.05__01.04.2020_.pdf) | - [Anlagen](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v1.05/Anlage) <br> - [Änderungen](https://github.com/bonsaibauer/strupa/releases/tag/v1.05) <br> - 🔗✖ [Abstimmungsergebnisse](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v1.05/Anlagen/Abstimmungsergebnisse) <br> - 🔗✖ [Änderungsanträge](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v1.05/Anlagen/Aenderungsantraege) |
@@ -72,14 +72,10 @@
 📌Layoutänderung (Querformat 2 Seiten), Glossar wird auf das Fridays for Future Wikipedia [https://wiki.fridaysforfuture.is/wiki/FFF_Glossar ](https://wiki.fridaysforfuture.is/wiki/FFF_Glossar) verbannt, Korrekturlesung, Rechtschreibung.
 
 ## [v1.05] - 2025-05-26
-**📌Layoutänderungen, Änderungsanträge:**
-
-- Teltow-Fläming (Wiki Eintrag für AGs und TFs)
-
-- Abgeordnetengespräche AG (Mandat erweitern, Zusatz AGSK)
-
-- Struktur AG (AGSK Sprecher*innen Verfehlungen)
-
+**📌Layoutänderungen, Änderungsanträge:**
+- Teltow-Fläming (Wiki Eintrag für AGs und TFs)
+- Abgeordnetengespräche AG (Mandat erweitern, Zusatz AGSK)
+- Struktur AG (AGSK Sprecher*innen Verfehlungen)
 - Struktur AG (OG Ausschlussverfahren)
 
 ## [v1.04] - 2025-05-26
@@ -89,23 +85,19 @@
 📌Kommunikationswege werden das erste Mal skizziert, Glossar aktualisiert, Layoutänderung.
 
 ## [v1.02] - 2025-05-26
-📌Korrekturlesung, Rechtschreibung, Verständlichkeit
-
+📌Korrekturlesung, Rechtschreibung, Verständlichkeit
 CTF hat die Arbeit aufgenommen und Verwaltet ab jetzt die Abstimmungen.
 
 ## [v1.01] - 2025-05-26
-**📌Neu Task Forces:**
-
+**📌Neu Task Forces:**
 TFs sind projektbezogene, demokratisch organisierte Gruppen mit klaren Transparenz- und Rechenschaftspflichten, die für eine bestimmte Zeit aktiv sind.
 
 ## [v1.00] - 2025-05-19
-**📌Erste Struktur:**
-
+**📌Erste Struktur:**
 Die Version 1.00 des Strukturpapiers (StruPa) stellt die erste offizielle Veröffentlichung dar und dient als Grundlage für die weitere Entwicklung. Die zugehörige PDF-Datei [„Anlage_v1.00-7 (Zusammenfassung & FAQ des Strukturpapiers)“](https://github.com/bonsaibauer/strupa/blob/main/Alte%20Versionen%20ohne%20genauen%20Versionsverlauf/v1.00/Anlage/Anlage_v1.00-7%20(Zusammenfassung%20%26%20FAQ%20des%20Strukturpapiers).pdf) bietet eine kompakte Übersicht der zentralen Inhalte sowie Antworten auf häufig gestellte Fragen.
 
 ## [v0.90] - 2025-05-19
-**📌Erste Vorschlag:**
-
+**📌Erste Vorschlag:**
 Wurde in der Deli-TK abgelehnt, dies hat den Strukturprozess gestartet, was dann in StruPa_v1.00 geendet hat.
 
 </details>

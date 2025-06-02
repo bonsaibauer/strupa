@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [v1.07] - 2025-06-02
+📌 TF FINTA Antrag, zu Feminismus leben!
+
 ## [v1.06] - 2025-05-26
 📌Layoutänderung (Querformat 2 Seiten), Glossar wird auf das Fridays for Future Wikipedia [https://wiki.fridaysforfuture.is/wiki/FFF_Glossar ](https://wiki.fridaysforfuture.is/wiki/FFF_Glossar) verbannt, Korrekturlesung, Rechtschreibung.
 

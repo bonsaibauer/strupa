@@ -30,7 +30,6 @@
 > ⚠️ **Hinweis:** Diese Tabelle befindet sich im Aufbau – noch nicht alle StruPa-Versionen und Anlagen sind vollständig erfasst.  
 > Ergänzungen willkommen – gerne via Pull Request!
 
-📂 **Änderungen ansehen**: [CHANGELOG.md](./CHANGELOG.md)
 
 | Version | Veröffentlichung | Enddatum    | Status | Link zum PDF                                                                                    | Anlagen/Abstimmung/Änderungsanträge   |
 |---------|------------------|-------------|--------|------------------------------------------------------------------------------------------------------------|------------------------------| 
@@ -56,6 +55,10 @@
 - 🔗✖ = link nicht vorhanden / Dokument nicht vorhanden
 
 ---
+
+# Änderungen zusammengefasst (Changelog):
+
+📂 **Änderungen ansehen**: [CHANGELOG.md](./CHANGELOG.md)
 
 <!-- CHANGELOG START -->
 

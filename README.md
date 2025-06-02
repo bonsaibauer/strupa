@@ -62,11 +62,15 @@
 
 <!-- CHANGELOG START -->
 
-## [v1.07] - 2025-06-02
-📌 TF FINTA Antrag, zu Feminismus leben!
+## [v1.08] - 2025-06-02
+📌Kürzung des Strukturpapiers, Layoutänderungen, Rechtschreibkorrektur, Vetorecht wurde eindeutiger - verständlicher überarbeitet,
+Zusatzantrag Finanzkonzept (wurde ins Strukturpapier aufgenommen, sowie die Finanzstruktur).
 
 <details>
 <summary>📜 Ältere Einträge anzeigen</summary>
+
+## [v1.07] - 2025-06-02
+📌 TF FINTA Antrag, zu Feminismus leben!
 
 ## [v1.06] - 2025-05-26
 📌Layoutänderung (Querformat 2 Seiten), Glossar wird auf das Fridays for Future Wikipedia [https://wiki.fridaysforfuture.is/wiki/FFF_Glossar ](https://wiki.fridaysforfuture.is/wiki/FFF_Glossar) verbannt, Korrekturlesung, Rechtschreibung.

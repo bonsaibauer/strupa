@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [v1.08] - 2025-06-02
+📌Kürzung des Strukturpapiers, Layoutänderungen, Rechtschreibkorrektur, Vetorecht wurde eindeutiger - verständlicher überarbeitet,
+Zusatzantrag Finanzkonzept (wurde ins Strukturpapier aufgenommen, sowie die Finanzstruktur).
+
 ## [v1.07] - 2025-06-02
 📌 TF FINTA Antrag, zu Feminismus leben!
 
